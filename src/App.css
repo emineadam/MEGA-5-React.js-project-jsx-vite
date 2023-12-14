@@ -1,0 +1,40 @@
+.App {
+  padding: 20px;
+}
+
+.App-header {
+    background-color: #153b53; 
+    padding: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .App-header h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-bottom: 2px solid #27ae60; /* yeşil tonları */
+  }
+  
+  
+  
+  .App-main {
+    display: flex;
+    flex-direction: column; /* Projeleri ve Contact Me'yi alt alta hizalar */
+    gap: 20px; /* Öğeler arasına 20 piksel boşluk bırakır */
+    text-align: center;
+  }
+
+  
+  /* Diğer stiller */
+  
+  
+  
+  
+ 
+  
+  
+  
+    

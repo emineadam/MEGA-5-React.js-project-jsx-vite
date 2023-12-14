@@ -1,0 +1,30 @@
+.ProjectList {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .ProjectList h2 {
+    color: #060729;
+  }
+  
+  .ProjectList ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .ProjectList li {
+    margin-bottom: 8px;
+  }
+  
+  .ProjectList a {
+    color: #14486b;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .ProjectList a:hover {
+    text-decoration: underline;
+  }
+  

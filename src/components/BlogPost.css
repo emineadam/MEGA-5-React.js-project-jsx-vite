@@ -1,0 +1,32 @@
+.BlogPost {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  align-self: flex-end; /* BlogPost bileşenini sağ kenara hizalar */
+}
+
+/* Diğer stiller */
+
+
+
+h1 {
+  text-align: center;
+}
+.BlogPost h2 {
+  color: #2c3e50;
+}
+
+.BlogPost p {
+  color: #34495e;
+}
+
+.BlogPost-image {
+  max-width: 50%;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+

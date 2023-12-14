@@ -1,0 +1,34 @@
+.ContactMe {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.ContactMe h2 {
+  color: #060729;
+}
+
+.ContactMe p {
+  color: #316eb4;
+}
+
+.ContactMe ul {
+  list-style: none;
+  padding: 0;
+}
+
+.ContactMe li {
+  margin-bottom: 8px;
+  color: #3498db;
+}
+
+.ContactMe a {
+  color: #14486b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.ContactMe a:hover {
+  text-decoration: underline;
+}
