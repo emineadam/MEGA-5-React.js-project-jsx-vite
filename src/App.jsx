@@ -24,7 +24,7 @@ function App() {
         <BlogPost
           title="Voice of the Forest"
           content="The forest attracts attention with its bird sounds and peaceful atmosphere. It is a natural source of therapy."
-          imageUrl="/public/forest.webp"
+          imageUrl="/public/forest.jpg"
         />
       </main>
 
